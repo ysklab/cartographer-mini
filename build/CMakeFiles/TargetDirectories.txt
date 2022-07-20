@@ -1,0 +1,3 @@
+/home/senior/lab/carto/build/CMakeFiles/rebuild_cache.dir
+/home/senior/lab/carto/build/CMakeFiles/edit_cache.dir
+/home/senior/lab/carto/build/CMakeFiles/main.dir
